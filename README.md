@@ -1,5 +1,5 @@
 👋 Hi, welcome to visit my&our open-source repositories. My nickname is Karbon.  
-📚 I am currently a double-degree master student of [EIT Digital Master School](https://masterschool.eitdigital.eu). I am studying Embedded Systems at [Università di Bologna](https://www.unibo.it/en) (2022-23) and [Kungliga Tekniska Högskolan](https://www.kth.se/en) (2023-24).  
+📚 I am currently a double-degree master student of [EIT Digital Master School](https://masterschool.eitdigital.eu). I am studying Embedded Systems at [Università di Bologna](https://www.unibo.it/en) and [Kungliga Tekniska Högskolan](https://www.kth.se/en).  
 🉑 My interests include embedded systems, edge AI applications & accelerators, and engineering education.  
 👨‍💻 I am also a remote member of [VeriMake](https://verimake.com/).  
 
