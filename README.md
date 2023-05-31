@@ -3,11 +3,13 @@
 🉑 My interests include embedded systems, edge AI applications & accelerators, and engineering education.  
 👨‍💻 I am also a remote member of [VeriMake](https://verimake.com/).  
 
-🔀 Languages: Chinese, English, C/C++, Python, Verilog……  
+🔀 Most Used Languages: Chinese, English, C/C++, Python, Verilog……  
 
 More about me:  
   (in English) [GitHub](https://github.com/CSY-tvgo) | [LinkedIn](https://linkedin.com/in/karbonchen) | [Instagram](https://www.instagram.com/siyu_karbon_)  
   (in Chinese) [bilibili](https://space.bilibili.com/2299098) | [WeChat 公众号](https://verimake.com/assets/files/2022-01-04/1641275258-566540-image.png) | [VeriMake Forum](https://verimake.com/u/Karbon/discussions)  
+
+![](https://github-readme-stats.vercel.app/api?username=csy-tvgo&theme=transparent&show_icons=true&include_all_commits=true)
 
 <!---
 CSY-tvgo/CSY-tvgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
