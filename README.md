@@ -3,7 +3,7 @@
 🉑 My interests include embedded systems, edge AI applications & accelerators, and engineering education.  
 👨‍💻 I am also a remote member of [VeriMake](https://verimake.com/).  
 
-🔀 Most Used Languages: Chinese, English, C/C++, Python, Verilog……  
+🔀 Most Used Languages: Chinese, English, C/C++, Python, Verilog, SystemVerilog……  
 
 More about me:  
   (in English) [GitHub](https://github.com/CSY-tvgo) | [LinkedIn](https://linkedin.com/in/karbonchen) | [Google Scholar](https://scholar.google.com/citations?user=_lzlU8wAAAAJ)  
