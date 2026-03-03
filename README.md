@@ -1,7 +1,7 @@
-👋 Hi, welcome to visit my&our open-source repositories. My nickname is Karbon.  
-📚 I am currently a double-degree master student of [EIT Digital Master School](https://masterschool.eitdigital.eu). I am studying Embedded Systems at [Università di Bologna](https://www.unibo.it/en) and [Kungliga Tekniska Högskolan](https://www.kth.se/en).  
+👋 Hi, welcome to visit my&our open-source repositories.  
+👨‍💻 My nickname is Karbon. I am currently an ASIC engineer based in Stockholm.  
 🉑 My interests include embedded systems, edge AI applications & accelerators, and engineering education.  
-👨‍💻 I am also a remote member of [VeriMake](https://verimake.com/).  
+🤠 Recently I have some nice ideas, will try finding some time to do them.  
 
 🔀 Most Used Languages: Chinese, English, C/C++, Python, Verilog, SystemVerilog……  
 
