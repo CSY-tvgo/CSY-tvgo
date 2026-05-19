@@ -7,7 +7,7 @@
 
 More about me:  
   (in English) [GitHub](https://github.com/CSY-tvgo) | [LinkedIn](https://linkedin.com/in/karbonchen) | [Google Scholar](https://scholar.google.com/citations?user=_lzlU8wAAAAJ)  
-  (in Chinese) [bilibili](https://space.bilibili.com/2299098) | [WeChat 公众号](https://verimake.com/assets/files/2022-01-04/1641275258-566540-image.png) | [VeriMake Forum](https://verimake.com/u/Karbon/discussions)  
+  (in Chinese) [Xiaohongshu](https://www.xiaohongshu.com/user/profile/6131aa440000000002019ced) | [bilibili videos made by me](https://space.bilibili.com/2299098/favlist?fid=2017329698) | [WeChat 公众号](https://verimake.com/assets/files/2022-01-04/1641275258-566540-image.png) | [VeriMake Forum](https://verimake.com/u/Karbon/discussions)  
 
 ![](https://github-readme-stats.vercel.app/api?username=csy-tvgo&theme=transparent&show_icons=true&include_all_commits=true)
 
